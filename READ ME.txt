@@ -1,0 +1,7 @@
+The game opened in maximun screeen
+
+For exit the game Press right in the 1.mouse and 2.(esc).
+
+This game is the 1 version, can have bugs.
+
+Others versions you can find in Github.com
